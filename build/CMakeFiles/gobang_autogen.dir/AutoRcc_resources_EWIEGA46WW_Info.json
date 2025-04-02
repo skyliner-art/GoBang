@@ -1,0 +1,28 @@
+{
+	"BUILD_DIR" : "/Users/kylin/local_project/labGobang/new/build/gobang_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/kylin/local_project/labGobang/new/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/kylin/local_project/labGobang/new/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/kylin/local_project/labGobang/new",
+	"CMAKE_SOURCE_DIR" : "/Users/kylin/local_project/labGobang/new",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/Users/kylin/local_project/labGobang/new/build/gobang_autogen/include",
+	"INPUTS" : 
+	[
+		"/Users/kylin/local_project/labGobang/new/image/chessboard.jpg",
+		"/Users/kylin/local_project/labGobang/new/image/icon.jpg",
+		"/Users/kylin/local_project/labGobang/new/audio/Canon(BackgroundMusic1).mp3",
+		"/Users/kylin/local_project/labGobang/new/audio/place_stone.mp3"
+	],
+	"LOCK_FILE" : "/Users/kylin/local_project/labGobang/new/build/CMakeFiles/gobang_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/Users/kylin/Qt/6.9.0/macos/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/kylin/local_project/labGobang/new/build/CMakeFiles/gobang_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/kylin/local_project/labGobang/new/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

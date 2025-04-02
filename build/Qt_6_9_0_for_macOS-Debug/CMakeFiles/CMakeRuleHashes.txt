@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+a0748e2cde1d8b1f08f0c3c146f63574 CMakeFiles/gobang_autogen
+5d21e444a56bcd13f734fce23f061474 gobang_autogen/EWIEGA46WW/qrc_resources.cpp
+1b4c326595604de6a4f28d47ab7ffe9a gobang_autogen/timestamp
